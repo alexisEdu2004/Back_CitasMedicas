@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DWP_CitasMedicas.props" />
+</Project>
